@@ -101,17 +101,10 @@ Ce projet met en avant des KPI “métier” et “techniques” :
 ---
 
 ## 7) Résultats (exemples)
-> Ajoute des captures dans `assets/` (recommandé)
 
-- `assets/hdfs_upload.png` (upload HDFS)
-- `assets/job_run.png` (exécution des jobs)
-- `assets/output_sample.png` (extrait des résultats)
 
-Exemple d’affichage :
+![Upload HDFS](Image1.png)
 
-![Upload HDFS](assets/hdfs_upload.png)
-![Exécution Job](assets/job_run.png)
-![Résultats](assets/output_sample.png)
 
 ---
 
